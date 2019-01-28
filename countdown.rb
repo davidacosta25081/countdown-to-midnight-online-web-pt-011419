@@ -24,6 +24,3 @@ sleep 1
 "HAPPY NEW YEAR!"
 
 end
-
-
-
