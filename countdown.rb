@@ -7,7 +7,7 @@ def countdown(counter)
     counter -= 1
   end
 "HAPPY NEW YEAR!"
-
+puts "HAPPY NEW YEAR"
 end
 
 
@@ -22,8 +22,8 @@ def countdown_with_sleep(counter)
 sleep (1)
   end
 "HAPPY NEW YEAR!"
-
+puts "HAPPY NEW YEAR"
 end
 
-countdown(30)
-countdown_with_sleep(30)
+countdown(10)
+countdown_with_sleep(10)
